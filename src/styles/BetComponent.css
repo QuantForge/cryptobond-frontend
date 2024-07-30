@@ -1,0 +1,22 @@
+.bet-component {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .bet-component input {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .bet-component button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .bet-component button:hover {
+    background-color: #218838;
+  }
+  
