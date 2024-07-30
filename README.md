@@ -37,8 +37,8 @@ Welcome to the **CryptoBond Frontend**! This repository contains the user interf
 1. **Clone the repository:**
 ---
 ```sh
-   git clone https://github.com/QuantForge/CryptoBond.git
-   cd CryptoBond
+   git clone https://github.com/QuantForge/cryptobond-frontend.git
+   cd cryptobond-frontend
 ```
 ---
 
